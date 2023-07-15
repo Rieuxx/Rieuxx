@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rieuxx
 - 👀 I’m interested in Python, java and algorithm.
-- 🌱 I’m currently learning Python!
+- 🌱 I’m currently learning Front-end things.
 - 💞️ I’m looking to collaborate on... software?
 - 📫 How to reach me? it doesnt matter.
 
