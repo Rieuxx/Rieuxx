@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Rieuxx
-- 👀 I’m interested in Python, java and algorithm.
+- 👀 I’m interested in Python, java and algorithm and html css java.. etc.
 - 🌱 I’m currently learning Front-end things.
 - 💞️ I’m looking to collaborate on... software?
 - 📫 How to reach me? it doesnt matter.
